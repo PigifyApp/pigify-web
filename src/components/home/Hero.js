@@ -119,11 +119,11 @@ export default function Hero() {
                     </p>
 
                     <p className="my-3 mainhero-subtitle is-hidden-mobile" style={{width: "80%"}}>
-                        Pigify is a <strong>decentralized</strong> saving platform that will <strong>force you</strong> to save and <strong>achieve</strong> your <strong>financial goals</strong>.
+                        Pigify is a <strong>decentralized</strong> saving platform that will <strong>force you</strong> to save and <strong>achieve</strong> your <strong>financial goals</strong>. This project has been discontinued, but you can still use it to save money.
                     </p>
 
                     <p className="my-3 mainhero-subtitle is-hidden-tablet">
-                        Pigify is a <strong>decentralized</strong> saving platform that will <strong>force you</strong> to save and <strong>achieve</strong> your <strong>financial goals</strong>.
+                        Pigify is a <strong>decentralized</strong> saving platform that will <strong>force you</strong> to save and <strong>achieve</strong> your <strong>financial goals</strong>. This project has been discontinued, but you can still use it to save money.
                     </p>
 
                     <a className={"button is-danger mt-3 mainhero-button" + (isLoading ? " is-loading" : "")} onClick={handleAppLaunch}>Start Saving</a>

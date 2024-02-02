@@ -8,7 +8,7 @@ export default function Roadmap() {
                 <div className="columns">
                     <div className="column">
                         <p className="title">Roadmap</p>
-                        <p className="subtitle">The path we will follow to implement our economy</p>
+                        <p className="subtitle">The path we were going to follow to implement our economy</p>
                     </div>
                 </div>
             </div>
