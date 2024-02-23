@@ -33,12 +33,6 @@ export default function Footer() {
                                 <span style={{ color: "white" }}><i className="fa-brands fa-twitter"></i></span> @dresnite
                             </a>
                         </p>
-
-                        <p>
-                            <a href="https://t.me/+xSxMbVsEg3dkOWQ8">
-                                <span style={{ color: "white" }}><i className="fa-brands fa-telegram"></i></span> Telegram Group
-                            </a>
-                        </p>
                     </div>
                 </div>
             </div>
